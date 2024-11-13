@@ -90,7 +90,7 @@ $(document).ready(function () {
     $(".handle").toggleClass("closed");
     $(".list-head").toggleClass("back");
     $(".overlay").toggleClass("back");
-    $("body").toggleClass("!overflow-hidden");
+    $("body").toggleClass("overflow-hidden");
   });
 
   // Slider Home
